@@ -1,0 +1,72 @@
+[
+    {
+        " id": "123456",
+        "cove": "https://i.ibb.co/nkr9Tkx/pexels-tirachard-kumtanom-733856.jpg",
+        "title": "The Secret Garden",
+        "author": "Jane Doe",
+        "author_img": "https://i.ibb.co/WBMgwws/pexels-kelly-6440782.jpg",
+        "posted_date": "February 19, 2024",
+        "reading_time": 15,
+        "hashtags": [
+            "#fiction",
+            "#classics",
+            "#gardening"
+        ]
+    },
+    {
+        " id": "789012",
+        "cove": "https://i.ibb.co/n6XJH2Z/pexels-pixabay-261579.jpg",
+        "title": "Beyond the Stars",
+        "author": "John Smith",
+        "author_img": "https://i.ibb.co/xjLydVj/pexels-andrea-piacquadio-3836818.jpg",
+        "posted_date": "February 18, 2024",
+        "reading_time": 20,
+        "hashtags": [
+            "#scifi",
+            "#adventure",
+            "#space"
+        ]
+    },
+    {
+        " id": "345678",
+        "cove": "https://i.ibb.co/7vVn5kV/pexels-pixabay-267569.jpg",
+        "title": "Mystery Mansion",
+        "author": "Emily Johnson",
+        "author_img": "https://i.ibb.co/G7Df9PB/pexels-kamshotthat-3217111.jpg",
+        "posted_date": "February 17, 2024",
+        "reading_time": 25,
+        "hashtags": [
+            "#mystery",
+            "#thriller",
+            "#detective"
+        ]
+    },
+    {
+        " id": "901234",
+        "cove": "https://i.ibb.co/0fFyJQS/pexels-pavel-danilyuk-8424482.jpg",
+        "title": "Cooking Adventures",
+        "author": "Michael Williams",
+        "author_img": "https://i.ibb.co/vhcpq75/pexels-andrea-piacquadio-3837268.jpg",
+        "posted_date": "February 16, 2024",
+        "reading_time": 30,
+        "hashtags": [
+            "#cooking",
+            "#recipes",
+            "#foodie"
+        ]
+    },
+    {
+        " id": "567890",
+        "cove": "https://i.ibb.co/Y8FTMQt/pexels-karolina-grabowska-8546578.jpg",
+        "title": "The Art of Negotiation",
+        "author": "Samantha Lee",
+        "author_img": "https://i.ibb.co/jVbMRw2/pexels-royal-anwar-447186.jpg",
+        "posted_date": "February 15, 2024",
+        "reading_time": 18,
+        "hashtags": [
+            "#business",
+            "#negotiation",
+            "#leadership"
+        ]
+    }
+]
